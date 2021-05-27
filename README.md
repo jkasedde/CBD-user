@@ -1,2 +1,2 @@
-# csejtl
-Car-Bike-Delivery App with Ionic
+# CBD - User App
+Car-Bike-Delivery User App
